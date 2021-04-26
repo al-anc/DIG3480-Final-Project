@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: 45e1aa2d611177f49a32aed62de9e65c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6363553285054503515
+    second: CollectibleHealth_0
+  - first:
+      213: 6540876701908601518
+    second: CollectibleHealth_1
+  - first:
+      213: -5003174440457887510
+    second: CollectibleHealth_2
+  - first:
+      213: 2694012732003444195
+    second: CollectibleHealth_3
+  - first:
+      213: -3979486110008025968
+    second: CollectibleHealth_4
+  - first:
+      213: -256082446938278901
+    second: CollectibleHealth_5
+  - first:
+      213: 4332102996966195923
+    second: CollectibleHealth_6
+  - first:
+      213: -1365708532303867840
+    second: CollectibleHealth_7
+  - first:
+      213: 2847226609776837879
+    second: CollectibleHealth_8
+  - first:
+      213: 6096899961167445012
+    second: CollectibleHealth_9
+  - first:
+      213: -4503673715543214899
+    second: CollectibleHealth_10
+  - first:
+      213: -5337281694493925985
+    second: CollectibleHealth_11
+  - first:
+      213: -2108934574782850646
+    second: CollectibleHealth_12
+  - first:
+      213: 7196410733762365957
+    second: CollectibleHealth_13
+  - first:
+      213: -6655911179623116477
+    second: CollectibleHealth_14
+  - first:
+      213: 6718801197677811872
+    second: CollectibleHealth_15
+  - first:
+      213: 1751937644977268692
+    second: CollectibleHealth_16
+  - first:
+      213: 5788173195946090574
+    second: CollectibleHealth_17
+  - first:
+      213: -8846363596894752842
+    second: CollectibleHealth_18
+  - first:
+      213: -7962039979592636386
+    second: CollectibleHealth_19
+  - first:
+      213: -7513214657401940998
+    second: CollectibleHealth_20
+  - first:
+      213: 6793644697524350561
+    second: CollectibleHealth_21
+  - first:
+      213: -2086464455282081788
+    second: CollectibleHealth_22
+  - first:
+      213: -7275097806559785039
+    second: CollectibleHealth_23
+  - first:
+      213: 4070629796890268706
+    second: CollectibleHealth_24
+  - first:
+      213: 4236973145248784041
+    second: CollectibleHealth_25
+  - first:
+      213: 387264982005030450
+    second: CollectibleHealth_26
+  - first:
+      213: 8236709635482431436
+    second: CollectibleHealth_27
+  - first:
+      213: -7712391175584932387
+    second: CollectibleHealth_28
+  - first:
+      213: -7496634319308072104
+    second: CollectibleHealth_29
+  - first:
+      213: -3816036976653259267
+    second: CollectibleHealth_30
+  - first:
+      213: -1273844728912533930
+    second: CollectibleHealth_31
+  - first:
+      213: -5823141900425361497
+    second: CollectibleHealth_32
+  - first:
+      213: -5251295012934039174
+    second: CollectibleHealth_33
+  - first:
+      213: -1340049473726924383
+    second: CollectibleHealth_34
+  - first:
+      213: 5308969669904442477
+    second: CollectibleHealth_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CollectibleHealth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a91f84ff1ef4850800000000000000
+      internalID: 6363553285054503515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1134
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa04e094bcd5ca50800000000000000
+      internalID: 6540876701908601518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1134
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0a137ba57219ab0800000000000000
+      internalID: -5003174440457887510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1134
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5e1776e4e036520800000000000000
+      internalID: 2694012732003444195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1134
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cde58977606c8c0800000000000000
+      internalID: -3979486110008025968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04f70d0f56327cf0800000000000000
+      internalID: -256082446938278901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 945
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2439829b8be1c30800000000000000
+      internalID: 4332102996966195923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 945
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040de4163570c0de0800000000000000
+      internalID: -1365708532303867840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 945
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4c9ce2481638720800000000000000
+      internalID: 2847226609776837879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 945
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c7a70463a8c9450800000000000000
+      internalID: 6096899961167445012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc478c00e9cbf71c0800000000000000
+      internalID: -4503673715543214899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 756
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d9e75b39a2ee5b0800000000000000
+      internalID: -5337281694493925985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_12
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 756
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa957878d2f8bb2e0800000000000000
+      internalID: -2108934574782850646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 756
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ac6b32f69ced360800000000000000
+      internalID: 7196410733762365957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_14
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 756
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3415302fb0471a3a0800000000000000
+      internalID: -6655911179623116477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a81e00771afd3d50800000000000000
+      internalID: 6718801197677811872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 567
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d721858102205810800000000000000
+      internalID: 1751937644977268692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 567
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40edcacad8b35050800000000000000
+      internalID: 5788173195946090574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_18
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 567
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf242dbd276b3580800000000000000
+      internalID: -8846363596894752842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 567
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e182ce0c2d6218190800000000000000
+      internalID: -7962039979592636386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af39c486313bbb790800000000000000
+      internalID: -7513214657401940998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 378
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ea72eabdfd74e50800000000000000
+      internalID: 6793644697524350561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 378
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400ce6ae1a36b03e0800000000000000
+      internalID: -2086464455282081788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 378
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc7cd0719a90b90800000000000000
+      internalID: -7275097806559785039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_24
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 378
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224d3cfab38cd7830800000000000000
+      internalID: 4070629796890268706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae5c6d80a0ccca30800000000000000
+      internalID: 4236973145248784041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 189
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e9b560377df5500800000000000000
+      internalID: 387264982005030450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 189
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfa7f406cbae4270800000000000000
+      internalID: 8236709635482431436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_28
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 189
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd176a761518f490800000000000000
+      internalID: -7712391175584932387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_29
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 189
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bd3a23eca96f790800000000000000
+      internalID: -7496634319308072104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleHealth_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfda3d48696ba0bc0800000000000000
+      internalID: -3816036976653259267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
